@@ -1,28 +1,32 @@
-# OTIENO OGUTU GEORGE - ICT Level 5 Portfolio
+5 # OTIENO OGUTU GEORGE - ICT Level 5 Portfolio
+Reg: NIBS/ATT/758/2026 | Age: 20 | Campus: NIBS Ruiru
+Phone: 0702501727 | Email: otienogeorge1537@gmail.com
+Location: Ruiru, Kenya
 
-**Reg:** NIBS/ATT/758/2026 | **Age:** 20 | **Campus:** NIBS Ruiru
-**Phone:** 0702501727 | **Email:** otienogeorge1537@gmail.com
-**Location:** Ruiru, Kenya
+## 🎯 Seeking 3-Month Industrial Attachment (May - July 2026)
 
-### 🎯 Seeking 3-Month Industrial Attachment
-Target Companies: **KISM** (eGP / ICT Dept) & **Kenya Web Solutions** (Web Hosting / Support)
+I am seeking an Industrial Attachment opportunity in a dynamic ICT environment.
 
-### 👨‍💻 About Me
+**Open to roles in:**
+- Web Development (Frontend & Backend)
+- IT Support & Helpdesk
+- e-Government Systems / eGP
+- Web Hosting, Domains & cPanel Management
+- Networking & Systems Administration
+
+**Availability:** Open to any reputable organization in Public Sector, Private Sector, NGOs, and Tech Companies. Locations: Nairobi, Kiambu, Ruiru & Remote.
+
+## 👨‍💻 About Me
 Disciplined, self-driven ICT Level 5 student with strong interest in Web Development, e-Government Systems, and IT Support. Experienced in building responsive websites, cPanel management, and helpdesk support.
 
-### 🛠️ Skills
+## 🛠️ Skills
 - Frontend: HTML5, CSS3, JavaScript
 - Backend: PHP, MySQL
-- CMS & Hosting: WordPress, cPanel, Domain Management
-- IT Support: Networking, Windows, Troubleshooting
+- CMS & Hosting: WordPress, cPanel, GitHub Pages
+- IT Support: Networking, Windows OS, Troubleshooting
+- Tools: Git, VS Code
 
-### 📁 Projects in this Repo
-1. **index.html** - Main Portfolio Landing Page
-2. **kism-egp.html** - KISM eGP Supplier Registration Clone (for attachment application)
-3. **hosting.html** - Kenya Web Solutions Hosting Packages Clone
-
-### 🔗 Live Portfolio
-Enable GitHub Pages to view live: Settings > Pages > Deploy from main
-
-### 📞 Contact
-Call/WhatsApp: 0702501727
+## 📞 Contact
+Email: otienogeorge1537@gmail.com | Phone: 0702501727
+Live Portfolio: https://otienogeorge1537.github.io/My-portfolio-/
+GitHub: https://github.com/otienogeorge1537
