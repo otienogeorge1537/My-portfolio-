@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Otieno George - ICT Level 5</title>
+<style>
+body{margin:0;font-family:Arial;background:#f8f9fa}
+.header{background:#0a2540;color:white;padding:50px 20px;text-align:center}
+.card{background:white;margin:20px;padding:25px;border-radius:12px}
+.tag{display:inline-block;background:#e3f2fd;padding:5px 12px;border-radius:20px;margin:4px;font-size:13px}
+.btn{background:#0a2540;color:white;padding:12px 20px;border-radius:8px;text-decoration:none;display:inline-block}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>OTIENO OGUTU GEORGE</h1>
+<p>ICT Level 5 | NIBS Ruiru - NIBS/ATT/758/2026</p>
+<p>0702501727 | otienogeorge1537@gmail.com</p>
+</div>
+<div class="card">
+<h2>About Me</h2>
+<p>20-year-old ICT student seeking 3-month attachment at KISM & Kenya Web Solutions. Passionate about Web Systems & eGP.</p>
+<h2>Skills</h2>
+<span class="tag">HTML</span><span class="tag">CSS</span><span class="tag">JavaScript</span><span class="tag">PHP</span><span class="tag">MySQL</span><span class="tag">WordPress</span><span class="tag">cPanel</span><span class="tag">Networking</span>
+<h2>Projects</h2>
+<ul>
+<li>KISM Supplier Portal Clone</li>
+<li>Web Hosting Landing Page</li>
+<li>IT Helpdesk System</li>
+</ul>
+<a class="btn" href="tel:0702501727">Call Me</a>
+</div>
+</body>
+</html>
